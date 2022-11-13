@@ -1,0 +1,7 @@
+package com.Eshn.eSahin.model
+
+
+data class Coord(
+    val lat: Double,
+    val lon: Double
+)

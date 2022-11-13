@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.preference.PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android"><PreferenceCategory android:title="General">
+    <SwitchPreference
+        android:title="Option1"
+
+    />
+    <Preference
+        android:title="Option1"
+        />
+    <Preference
+        android:title="Option2"
+        />
+    <Preference
+        android:title="Option3"
+        />
+</PreferenceCategory>
+</androidx.preference.PreferenceScreen>
+<!--Here I am trying to create settings list but I tried using preferencesscreen then i researched and changed it to android preference.preferencescreen it is not functional but I am working on it-->
+
+
